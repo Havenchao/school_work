@@ -1,9 +1,9 @@
 import java.io.*;
 
-public class Main {
+public class castilloA_OSpgm2 {
 
     public static void main(String[] args) {
-        InputStreamReader is = new InputStreamReader(Main.class.getResourceAsStream ("/resources/RAMerrors8x4c.txt"));
+        InputStreamReader is = new InputStreamReader(castilloA_OSpgm2.class.getResourceAsStream ("/resources/RAMerrors8x4c.txt"));
         BufferedReader bufferedReader = null;
 
         try{
