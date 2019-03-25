@@ -9,8 +9,8 @@
 #       #Due Date  : 03/25/2019 
 #                 
 #       Certification: 
-#       I hereby certify that this work is my own and none of it is the work of 
-#        any other person. 
+#       I hereby certify that this work is my own 
+#       and none of it is the work of any other person. 
 #             
 #     *********************************************************************
 
