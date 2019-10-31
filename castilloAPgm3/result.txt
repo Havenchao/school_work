@@ -1,6 +1,3 @@
-Andrew Castillo Sun Mar 24 23:02:22 EDT 2019
-100 divided by 10 is 10
-50 divided by 5 is 10
-Total amount of substring TTT in the first 2,000 lines of file hs_alt_HuRef_chr10.fa are: 3817
-Andrew Castillo Sun Mar 24 23:38:22 EDT 2019
-20 divided by 0 is 
+Andrew Castillo Thu Oct 31 00:44:38 EDT 2019
+10 divided by 5 is 2
+Total amount of substring ACGT in the first 1,995 lines of file hs_alt_HuRef_chr10.fa are: 118
