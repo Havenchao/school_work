@@ -19,13 +19,13 @@
      :MAIN
      set /p firstNumber="Enter First Number: "
      
-     if %firstNumber% == 66 (
+     if %firstNumber% == 22 (
          goto :EOF
      )
 
      set /p secondNumber="Enter Second Number: "
      
-     if %secondNumber% == 66 (
+     if %secondNumber% == 22 (
          goto :EOF
      )
 

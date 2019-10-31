@@ -1,3 +1,6 @@
 Andrew Castillo Thu Oct 31 00:44:38 EDT 2019
 10 divided by 5 is 2
 Total amount of substring ACGT in the first 1,995 lines of file hs_alt_HuRef_chr10.fa are: 118
+"name: Andrew Castillo class name: Operating Systems section: PGM3" 
+"10 divided by 5 equals 2" 
+"50 divided by 10 equals 5" 
