@@ -1,12 +1,12 @@
   <<ID
   ************************************************** 
   Author   : Andrew Castillo 
-  Course   : Operating Systems 2 6:25 pm
+  Course   : Operating Systems 3 6:25 pm
   Professor: Michael Robinson 
   Program  : pgm4, Purpose/Description 
              Append to the above file the necessary commands that when this file is executed 
              it will display the following
-  Due Date : 04/03/2019 
+  Due Date : 11/14/2019 
 
   I certify that this work is my own alone. 
   **************************************************

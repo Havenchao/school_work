@@ -4,3 +4,4 @@ Total amount of substring ACGT in the first 1,995 lines of file hs_alt_HuRef_chr
 "name: Andrew Castillo class name: Operating Systems section: PGM3" 
 "10 divided by 5 equals 2" 
 "50 divided by 10 equals 5" 
+"name: Andrew Castillo class name: Operating Systems section: PGM3" 
